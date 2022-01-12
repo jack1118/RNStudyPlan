@@ -6,7 +6,7 @@ A description of what the project is about. Give a brief description of the proj
 
 * [Prerequisites](#prerequisites)
 * [Setting up the development environment](#setting-up-the-development-environment)
-* [Lessons](#leasons)
+* [Lessons](#lessons)
 
 ## Prerequisites
 
