@@ -1,7 +1,5 @@
 # FIHTDC React Native Study Plan
 
-A description of what the project is about. Give a brief description of the project. What was the reason or motivation behind the creation of the project?
-
 ## Contents
 
 * [Prerequisites](#prerequisites)
