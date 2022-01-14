@@ -42,11 +42,13 @@ npx react-native init AwesomeProject
     * Focus on TypeScript
 2. React, Props, State (`On going`(Tristan), 1/18)
 3. React Native (4, TBD)
+    * [Architecture Overview](https://reactnative.dev/docs/architecture-overview)
     * React Native Components
     * Style
     * Event Handling
     * Component Lifecycle
 4. Lists, User Input (4, TBD)
+    * [Core Components and APIs](https://reactnative.dev/docs/components-and-apis)
     * ScrollView
     * FlatList
     * SectionList
