@@ -38,16 +38,47 @@ npx react-native init AwesomeProject
 
 ## Lessons
 
-1. JavaScript, ES6
-2. React, Props, State
-3. React Native
-4. Lists, User Input
-5. Navigation
-6. Data
-7. Redux
-8. Async Redux
-9. Debugging
-10. Deploying, Testing
+1. JavaScript, ES6, TypeScript (3, TBD)
+    * Focus on TypeScript
+2. React, Props, State (`On going`(Tristan), 1/18)
+3. React Native (4, TBD)
+    * React Native Components
+    * Style
+    * Event Handling
+    * Component Lifecycle
+4. Lists, User Input (4, TBD)
+    * ScrollView
+    * FlatList
+    * SectionList
+5. Navigation (3, TBD)
+    * react-navigation
+    * SwitchNavigator
+    * navigation prop
+    * StackNavigator
+    * Configuring navigators
+    * TabNavigator
+    * Composing navigators
+6. Data (4, TBD)
+    * Database
+    * Promises, Async/Await
+    * http request
+7. Flux, Redux, Async Redux (4, `1/20`)
+    * Reducer
+    * Store
+    * Actions
+    * HOCs
+    * redux-thunk
+    * persisting state
+    * redux-persist
+8. Theme, i18n (4, TBD)
+9. Debugging, performance (4, `Done`(Jack))
+10. Deploying, Testing (4, TBD)
+
+## Output
+
+1. Detailed study item plan on the first day
+2. Slide/Materials
+3. Presentation with at least a demo
 
 ## Maintainers
 
