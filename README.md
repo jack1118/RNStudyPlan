@@ -73,7 +73,7 @@ npx react-native init AwesomeProject
     * persisting state
     * redux-persist
 8. Theme, i18n (4, TBD)
-9. Debugging, performance (4, `Done`(Jack))
+9. [Debugging, performance](https://github.com/jack1118/DebuggingReactNative) (4, `Done`(Jack))
 10. Deploying, Testing (4, TBD)
 
 ## Output
