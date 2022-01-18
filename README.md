@@ -47,12 +47,12 @@ npx react-native init AwesomeProject
     * Style
     * Event Handling
     * Component Lifecycle
-4. Lists, User Input (4, TBD)
+4. Lists, User Input (4, Henly, 2/24)
     * [Core Components and APIs](https://reactnative.dev/docs/components-and-apis)
     * ScrollView
     * FlatList
     * SectionList
-5. Navigation (3, TBD)
+5. Navigation (3, Ian, 2/10)
     * react-navigation
     * SwitchNavigator
     * navigation prop
@@ -60,11 +60,11 @@ npx react-native init AwesomeProject
     * Configuring navigators
     * TabNavigator
     * Composing navigators
-6. Data (4, TBD)
+6. Data (4, Tony, 2/17)
     * Database
     * Promises, Async/Await
     * http request
-7. Flux, Redux, Async Redux (4, `1/20`)
+7. Flux, Redux, Async Redux (4, Perry, 2/17)
     * Reducer
     * Store
     * Actions
