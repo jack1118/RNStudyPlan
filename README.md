@@ -1,5 +1,7 @@
 # FIHTDC React Native Study Plan
 
+![status](https://user-images.githubusercontent.com/3796237/150053345-330ccd7d-8fab-45c8-8978-6f9fdf6b5aa5.png)
+
 ## Contents
 
 * [Prerequisites](#prerequisites)
