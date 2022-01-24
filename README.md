@@ -40,16 +40,18 @@ npx react-native init AwesomeProject
 
 ## Lessons
 
-1. JavaScript, ES6, TypeScript (3, TBD)
+1. JavaScript, ES6, TypeScript (3, puals, 2/22)
     * Focus on TypeScript
-2. React, Props, State (`On going`(Tristan), 1/18)
-3. React Native (4, TBD)
-    * [Architecture Overview](https://reactnative.dev/docs/architecture-overview)
-    * React Native Components
-    * Style
-    * Event Handling
-    * Component Lifecycle
-4. Lists, User Input (4, Henly, 2/24)
+2. React, Props, State (`Done`(Tristan), 1/18)
+3. React Native 
+    * (4, Neo, 2/25)
+        * [Architecture Overview](https://reactnative.dev/docs/architecture-overview)
+        * React Native Components
+        * Style
+    * (4, Neo, 3/1)
+        * Event Handling
+        * Component Lifecycle
+4. Lists, User Input (4, Henly, 2/18)
     * [Core Components and APIs](https://reactnative.dev/docs/components-and-apis)
     * ScrollView
     * FlatList
@@ -74,9 +76,9 @@ npx react-native init AwesomeProject
     * redux-thunk
     * persisting state
     * redux-persist
-8. Theme, i18n (4, TBD)
+8. Theme, i18n (4, xuemin, 2/25)
 9. [Debugging, performance](https://github.com/jack1118/DebuggingReactNative) (4, `Done`(Jack))
-10. Deploying, Testing (4, TBD)
+10. Deploying, Testing (4, zhihan, 2/24)
 
 ## Output
 
