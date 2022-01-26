@@ -1,6 +1,6 @@
 # FIHTDC React Native Study Plan
 
-![status](https://user-images.githubusercontent.com/3796237/150312173-5f8fa064-d2c2-4269-bcac-70f83ae0d5c5.png)
+![status](https://user-images.githubusercontent.com/3796237/151163731-81075cab-b608-448f-af9d-da639ef918b8.png)
 
 ## Contents
 
