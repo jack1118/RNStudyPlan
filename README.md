@@ -11,15 +11,10 @@
 ## Prerequisites
 
 1. ES6 and Advanced Javascript
-
 2. Node js
-
 3. React
-
 4. Redux with React
-
 5. Flexbox
-
 6. Optional — Good to know  
     Some more tools for your arsenal.  
     * redux-thunk
