@@ -37,7 +37,7 @@ npx react-native init AwesomeProject
 
 1. JavaScript, ES6, TypeScript (3, puals, 2/22)
     * Focus on TypeScript
-2. React, Props, State (`Done`(Tristan), 1/18)
+2. [React, Props, State](https://github.com/jack1118/RNStudyPlan/blob/main/Tristan_PropsStates.pdf) (`Done`(Tristan), 1/18)
 3. React Native 
     * (4, Neo, 2/25)
         * [Architecture Overview](https://reactnative.dev/docs/architecture-overview)
