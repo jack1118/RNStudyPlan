@@ -74,7 +74,7 @@ npx react-native init AwesomeProject
 8. Theme, i18n (4, xuemin, 2/25)
 9. [Debugging, performance](https://github.com/jack1118/DebuggingReactNative) (4, `Done`(Jack), 1/6)
 10. Deploying, Testing (4, zhihan, 2/24)
-11. Create a Native Module (`Done`(Perry), 1/13)
+11. [Create a Native Module](https://github.com/jack1118/RNStudyPlan/blob/main/Perry_CreateNativeModule.pdf) (`Done`(Perry), 1/13)
 
 ## Output
 
