@@ -56,7 +56,7 @@ npx react-native init AwesomeProject
     * ScrollView
     * FlatList
     * SectionList
-5. Navigation (3, `Done`(Ian), 1/27)
+5. [Navigation](https://github.com/jack1118/RNStudyPlan/blob/main/Ian_Navigation.pdf) (3, `Done`(Ian), 1/27)
     * react-navigation
     * SwitchNavigator
     * navigation prop
