@@ -1,6 +1,6 @@
 # FIHTDC React Native Study Plan
 
-![status](https://user-images.githubusercontent.com/3796237/151163731-81075cab-b608-448f-af9d-da639ef918b8.png)
+![status](https://user-images.githubusercontent.com/3796237/151312456-4e260f70-7a6d-4239-aa6a-d1b781050a3a.png)
 
 ## Contents
 
@@ -34,7 +34,7 @@
 
 Refer to [reactnative.dev](https://reactnative.dev/docs/environment-setup) to build your first React Native app by the following command.
 
-```js
+```bash
 npx react-native init AwesomeProject
 ```
 
@@ -56,7 +56,7 @@ npx react-native init AwesomeProject
     * ScrollView
     * FlatList
     * SectionList
-5. Navigation (3, Ian, 2/10)
+5. Navigation (3, `Done`(Ian), 1/27)
     * react-navigation
     * SwitchNavigator
     * navigation prop
